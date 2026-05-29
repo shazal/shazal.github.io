@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Software Engineer, Wireless AI/ML Systems @ <a href="https://meraki.cisco.com/" target="_blank">Cisco Meraki</a> &nbsp;|&nbsp; 
+  Ph.D. Computer Science, <a href="https://www.colorado.edu/" target="_blank">CU Boulder</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>San Francisco, CA</p>
+    <p><a href="mailto:shazal.irshad@gmail.com">shazal.irshad@gmail.com</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a software engineer on the Wireless AI/ML Systems team at [Cisco Meraki](https://meraki.cisco.com/), where I work on building intelligent, data-driven systems for enterprise wireless networks. My work spans large language models for packet analysis, explainable ML for root cause analysis, and telemetry pipelines for configuration recommendation at scale.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my Ph.D. in Computer Science at the [University of Colorado Boulder](https://www.colorado.edu/) in 2023, advised by [Dr. Eric Rozner](http://ericrozner.com/). My dissertation, *"Joining Wireless and Vision Techniques for Improving Contextual Awareness,"* developed systems that integrate Wi-Fi and camera sensing to improve indoor localization accuracy and enable privacy-preserving vision pipelines.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include systems and networking, distributed and intelligent networked systems, ML for system diagnostics and operations, mobile and wireless computing, networked sensing, and privacy-aware systems. I am broadly motivated by building scalable, reliable, and context-aware systems that bridge research and real-world deployments.
+
+I received my M.S. in Computer Science from [LUMS](https://lums.edu.pk/) (Lahore, Pakistan) in 2017, and my B.S. in Computer Science from [FAST-NUCES](https://www.nu.edu.pk/) in 2014.
