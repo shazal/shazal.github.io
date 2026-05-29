@@ -8,7 +8,7 @@ middle_name:
 last_name: Irshad
 email: shazal.irshad@gmail.com
 description: > 
-  Personal academic website of Shazal Irshad — systems and networking researcher at Cisco Meraki.
+  Personal academic website of Shazal Irshad.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -63,8 +63,7 @@ og_image:
 
 github_username: shazal
 linkedin_username: shazal-irshad
-scholar_userid: # add your Google Scholar ID if you have one
-email: shazal.irshad@gmail.com
+scholar_userid: kB5_0R8AAAAJ
 
 contact_note: >
   Best reached via email.
