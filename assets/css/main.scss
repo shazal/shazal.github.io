@@ -24,8 +24,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.news table th {
-  color: var(--global-text-color-light);
-  font-weight: normal;
-  font-size: 0.85rem;
+.post table td, .post table th {
+  color: var(--global-text-color);
 }
