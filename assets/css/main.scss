@@ -27,3 +27,21 @@ $max-content-width: {{ site.max_width }};
 .post table td, .post table th {
   color: var(--global-text-color);
 }
+
+.post table.table-borderless {
+  margin-top: 0.5rem;
+}
+
+.post table.table-borderless td:first-child {
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+  white-space: nowrap;
+  padding-right: 1.5rem;
+}
+
+.post table.table-borderless td {
+  color: var(--global-text-color);
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
