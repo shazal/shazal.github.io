@@ -1,49 +1,44 @@
-# Shazal Irshad — al-folio Site Files
+# shazal.github.io
 
-These are the custom content files for your al-folio site. Here's how to use them.
+Personal academic website of Shazal Irshad, built with [al-folio](https://github.com/alshedivat/al-folio).
 
-## Files included
+## Structure
 
-| File | Purpose |
-|------|---------|
-| `_config.yml` | Main site config — replaces the one in your repo |
-| `_pages/about.md` | Homepage / about section |
-| `_pages/publications.md` | Publications page |
-| `_pages/cv.md` | CV page |
-| `_pages/contact.md` | Contact page |
-| `_bibliography/papers.bib` | All your publications in BibTeX format |
-| `_news/*.md` | News/announcement items |
-| `assets/json/resume.json` | Structured CV data used by the CV page layout |
+- `_pages/about.md` — homepage
+- `_pages/publications.md` — publications page
+- `_bibliography/papers.bib` — all publications in BibTeX format
+- `_news/` — news items shown on the homepage
+- `assets/img/prof_pic.jpg` — profile photo
+- `assets/pdf/shazal_cv.pdf` — CV (linked from about page)
+- `_config.yml` — site configuration
 
-## Setup steps
+## Local development
 
-### 1. Copy files into your repo
-Copy each file into the matching location in your `shazal.github.io` repo (after renaming it).
-
-### 2. Add your photo
-Place your profile photo at:
-```
-assets/img/prof_pic.jpg
+```bash
+bundle install
+bundle exec jekyll serve
 ```
 
-### 3. Add your CV PDF
-Place your CV PDF at:
+Then open [http://localhost:4000](http://localhost:4000).
+
+## Adding a publication
+
+Open `_bibliography/papers.bib` and add a new BibTeX entry. It will appear automatically on the publications page.
+
+## Adding a news item
+
+Create a new `.md` file in `_news/` following this format:
+
+```markdown
+---
+layout: post
+date: 2026-01-01
+inline: true
+---
+
+Your news item text here.
 ```
-assets/pdf/shazal_cv.pdf
-```
-The CV page will automatically show a download link for it.
 
-### 4. Update social links in `_config.yml`
-Fill in any missing fields:
-- `scholar_userid` — your Google Scholar profile ID (from the URL: `scholar.google.com/citations?user=XXXXXXXX`)
-- `linkedin_username` — update if different from `shazal-irshad`
-- `github_username` — update if different from `shazal`
+## Deployment
 
-### 5. Rename your repo
-If not done already, rename the repo from `shazal-irshad.github.io` to `shazal.github.io` in GitHub Settings.
-
-### 6. Push and deploy
-Commit everything and push to `master`. The GitHub Actions workflow will build and deploy to `gh-pages` automatically.
-
-## Optional: add more news items
-Add `.md` files to `_news/` following the existing format. They'll appear in the news table on the homepage.
+Pushing to `master` triggers the GitHub Actions workflow which builds the site and deploys it to the `gh-pages` branch. The site is served at [https://shazal.github.io](https://shazal.github.io).
