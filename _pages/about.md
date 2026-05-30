@@ -14,7 +14,7 @@ profile:
     <p>San Francisco, CA</p>
     <p><a href="mailto:shazal.irshad@gmail.com">shazal.irshad@gmail.com</a></p>
 
-news: true
+news: false
 selected_papers: false
 social: true
 ---
@@ -26,3 +26,12 @@ I completed my Ph.D. in Computer Science at the [University of Colorado Boulder]
 My research interests include systems and networking, distributed and intelligent networked systems, ML for system diagnostics and operations, mobile and wireless computing, networked sensing, and privacy-aware systems. I am broadly motivated by building scalable, reliable, and context-aware systems that bridge research and real-world deployments.
 
 I received my M.S. in Computer Science from [LUMS](https://lums.edu.pk/) (Lahore, Pakistan) in 2017, and my B.S. in Computer Science from [FAST-NUCES](https://www.nu.edu.pk/) in 2014.
+
+## news
+
+| Mar 2026 | New preprint out on arXiv: [PLUME](https://arxiv.org/abs/2603.13647), a network-native foundation model for wireless traces. Joint work with Swadhin Pradhan and Jerome Henry. |
+| Jul 2025 | Filed two patents with Cisco Meraki on wireless ML and network anomaly detection. |
+| Jul 2023 | Joined [Cisco Meraki](https://meraki.cisco.com/) as a Software Engineer on the Wireless AI/ML Systems team. |
+| Jul 2023 | Defended my Ph.D. dissertation at CU Boulder. |
+| Jul 2023 | Received Best Paper Awards at [IEEE LANMAN 2023](https://lanman2023.ieee-lanman.org/) and [IEEE WoWMoM 2023](https://computing.derby.ac.uk/wowmom2023/). |
+| Mar 2020 | Received Best Poster Award at [ACM HotMobile 2020](https://www.hotmobile.org/2020/). |
