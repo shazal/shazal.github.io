@@ -27,7 +27,9 @@ My research interests include systems and networking, distributed and intelligen
 
 I received my M.S. in Computer Science from [LUMS](https://lums.edu.pk/) (Lahore, Pakistan) in 2017, and my B.S. in Computer Science from [FAST-NUCES](https://www.nu.edu.pk/) in 2014.
 
+
 ## news
+
 
 | Mar 2026 | New preprint out on arXiv: [PLUME](https://arxiv.org/abs/2603.13647), a network-native foundation model for wireless traces. Joint work with Swadhin Pradhan and Jerome Henry. |
 | Jul 2025 | Filed two patents with Cisco Meraki on wireless ML and network anomaly detection. |
