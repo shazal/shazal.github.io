@@ -359,11 +359,9 @@ third_party_libraries:
       js: "https://cdn.jsdelivr.net/npm/chart.js@{{version}}/dist/chart.umd.min.js"
     version: "4.4.1"
   jquery:
-    integrity:
-      js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tTw2fZ/6ksAqDCM8GY="
     url:
-      js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
-    version: "3.6.0"
+      js: "https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"
+    version: "3.7.1"
   mathjax:
     integrity:
       js: "sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="
