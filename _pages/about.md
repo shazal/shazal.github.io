@@ -32,11 +32,12 @@ I received my M.S. in Computer Science from [LUMS](https://lums.edu.pk/) (Lahore
 
 <table style="width:100%; border-collapse:collapse; margin-top:0.5rem;">
   <tr style="border-bottom: 1px solid #dee2e6;">
-    <td style="width:12%; color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jun 2026</td>
-    <td style="padding:0.6rem 0;">New preprint out on arXiv: <a href="https://arxiv.org/abs/2606.20587">PLUME</a>, a network-native foundation model for wireless traces. Joint work with Swadhin Pradhan and Jerome Henry.</td>
-  <tr style="border-bottom: 1px solid #dee2e6;">
     <td style="width:12%; color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Mar 2026</td>
-    <td style="padding:0.6rem 0;">New preprint out on arXiv: <a href="https://arxiv.org/abs/2603.13647">Protocol-Aware Tokenization and Architecture Co-Design for Wireless Packet Foundation Models. Joint work with Swadhin Pradhan and Jerome Henry.</td>
+    <td style="padding:0.6rem 0;">New preprint out on arXiv: <a href="https://arxiv.org/abs/2606.20587">Protocol-Aware Tokenization and Architecture Co-Design for Wireless Packet Foundation Models. Joint work with Swadhin Pradhan and Jerome Henry.</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #dee2e6;">
+    <td style="width:12%; color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jun 2026</td>
+    <td style="padding:0.6rem 0;">New preprint out on arXiv: <a href="https://arxiv.org/abs/2603.13647">PLUME</a>, a network-native foundation model for wireless traces. Joint work with Swadhin Pradhan and Jerome Henry.</td>
   </tr>
   <tr style="border-bottom: 1px solid #dee2e6;">
     <td style="color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jul 2025</td>
