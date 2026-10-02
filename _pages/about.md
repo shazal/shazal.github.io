@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Researcher, Wireless AI/ML Systems @ <a href="https://meraki.cisco.com/" target="_blank">IS-WIN Lab Clemsonhttps://sites.google.com/g.clemson.edu/is-win-lab/home?pli=1&authuser=0</a> &nbsp;|&nbsp; 
+  Postdoctoral Researcher, Wireless AI/ML Systems @ <a href="https://sites.google.com/g.clemson.edu/is-win-lab/home?pli=1&authuser=0" target="_blank">IS-WIN Lab Clemson</a> &nbsp;|&nbsp; 
   Ph.D. Computer Science, <a href="https://www.colorado.edu/" target="_blank">CU Boulder</a>
 
 profile:
