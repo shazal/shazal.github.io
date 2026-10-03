@@ -50,4 +50,17 @@ I received my M.S. in Computer Science from [LUMS](https://lums.edu.pk/) (Lahore
     <td style="color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jul 2025</td>
     <td style="padding:0.6rem 0;">Filed two patents with Cisco Meraki on wireless ML and network anomaly detection.</td>
   </tr>
+   <tr style="border-bottom: 1px solid #dee2e6;">
+    <td style="color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jul 2023</td>
+    <td style="padding:0.6rem 0;">Joined <a href="https://meraki.cisco.com/">Cisco Meraki</a> as a Software Engineer on the Wireless AI/ML Systems team.</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #dee2e6;">
+    <td style="color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jul 2023</td>
+    <td style="padding:0.6rem 0;">Defended my Ph.D. dissertation at CU Boulder.</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #dee2e6;">
+    <td style="color:#6c757d; font-size:0.85rem; padding:0.6rem 1.5rem 0.6rem 0; vertical-align:top;">Jul 2023</td>
+    <td style="padding:0.6rem 0;">Received Best Paper Awards at <a href="https://lanman2023.ieee-lanman.org/">IEEE LANMAN 2023</a> and <a href="https://computing.derby.ac.uk/wowmom2023/">IEEE WoWMoM 2023</a>.</td>
+  </tr>
+
 </table>
