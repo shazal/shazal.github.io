@@ -19,13 +19,13 @@ selected_papers: false
 social: true
 ---
 
-I am a Postdoctoral Researcher in the [Intelligent Systems and Wireless Networking (IS-WiN) Lab]\([https://sites.google.com/g.clemson.edu/is-win-lab/home?pli=1&authuser=0](https://sites.google.com/g.clemson.edu/is-win-lab/home?pli=1&authuser=0)), at [Clemson University]\([https://www.clemson.edu/](https://www.clemson.edu/)), working with [Dr. Fatemeh Afghah]\([https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/fafghah.html](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/fafghah.html)). My research focuses on foundation models and world models for wireless systems, with an emphasis on self-supervised representation learning, multimodal RF and vision sensing, and intelligent wireless network control.
+I am a Postdoctoral Researcher in the [Intelligent Systems and Wireless Networking (IS-WiN) Lab](https://sites.google.com/g.clemson.edu/is-win-lab/home?pli=1&authuser=0) at [Clemson University](https://www.clemson.edu/), working with [Dr. Fatemeh Afghah](https://www.clemson.edu/cecas/departments/ece/faculty_staff/faculty/fafghah.html). My research focuses on foundation models and world models for wireless systems, with an emphasis on self-supervised representation learning, multimodal RF and vision sensing, and intelligent wireless network control.
 
-Previously, I was a Software Engineer on the Wireless AI/ML Systems team at [Cisco Meraki]\([https://meraki.cisco.com/](https://meraki.cisco.com/)), where I worked on ML-driven diagnostics and intelligent systems for enterprise wireless networks. I received my Ph.D. in Computer Science from the [University of Colorado Boulder]\([https://www.colorado.edu/](https://www.colorado.edu/)) in 2023, advised by [Dr. Eric Rozner]\([http://ericrozner.com/](http://ericrozner.com/)), where my research combined wireless networking and computer vision for localization, sensing, and privacy-aware systems.
+Previously, I was a Software Engineer on the Wireless AI/ML Systems team at [Cisco Meraki](https://meraki.cisco.com/), where I worked on ML-driven diagnostics and intelligent systems for enterprise wireless networks. I received my Ph.D. in Computer Science from the [University of Colorado Boulder](https://www.colorado.edu/) in 2023, advised by [Dr. Eric Rozner](http://ericrozner.com/), where my research combined wireless networking and computer vision for localization, sensing, and privacy-aware systems.
 
 My research interests include systems and networking, distributed and intelligent networked systems, ML for system diagnostics and operations, mobile and wireless computing, networked sensing, privacy-aware systems, and foundation and world models for networked systems. I am broadly motivated by building scalable, reliable, and context-aware systems that bridge research and real-world deployments.
 
-I received my M.S. in Computer Science from [LUMS]\([https://lums.edu.pk/](https://lums.edu.pk/)) (Lahore, Pakistan) in 2017, and my B.S. in Computer Science from [FAST-NUCES]\([https://www.nu.edu.pk/](https://www.nu.edu.pk/)) in 2014.
+I received my M.S. in Computer Science from [LUMS](https://lums.edu.pk/) (Lahore, Pakistan) in 2017, and my B.S. in Computer Science from [FAST-NUCES](https://www.nu.edu.pk/) in 2014.
 
 ## news
 
